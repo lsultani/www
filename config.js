@@ -113,7 +113,7 @@
 
 
 		// PROFILE PICTURE URL
-		var config_profile_image_url = "";
+		var config_profile_image_url = "assets/images/lesliebg.jpg";
 
 
 
